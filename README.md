@@ -71,3 +71,4 @@ Once the driver arrives at the pick-up location user is notified. The rider gets
 Once they reach the destination, the driver completes the trip. An invoice is generated which can be paid by the user in cash or card. It will be effortless if the rider used a wallet or card when booking the trip. The payment gets done and they can give reviews to one another.
 
 This is the simple flow and what else can be better than a smooth ride and no hassles.
+Checkout - https://miracuves.com/index.php/service/uber-clone/
